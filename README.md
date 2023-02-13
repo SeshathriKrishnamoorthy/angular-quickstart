@@ -1,3 +1,4 @@
+[![Board Status](https://clt-925cf99d-9abc-45d1-b66c-18189f82e565.visualstudio.com/52c72da9-324c-4aa7-a06b-3d882496ae2d/6fed20df-d9e3-4f89-8d8b-f5fb4e07f664/_apis/work/boardbadge/6bfd7b2f-eb5f-46fe-aa6e-a811b84b0183)](https://clt-925cf99d-9abc-45d1-b66c-18189f82e565.visualstudio.com/52c72da9-324c-4aa7-a06b-3d882496ae2d/_boards/board/t/6fed20df-d9e3-4f89-8d8b-f5fb4e07f664/Microsoft.RequirementCategory)
 # Angular on Netlify Quick Start Template    
 ![netlify + angular logo](https://res.cloudinary.com/dzkoxrsdj/image/upload/v1646339469/angular_wzrs5o.png)
 
